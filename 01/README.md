@@ -4,7 +4,7 @@
 
 # `#01` PHP: Project Organization
 
-Dodaj `namespace` do wcześniej stworzony klas np. `Pagination`, `Database` i zaprezentuj ich działanie w pliku `index.php`.
+Dodaj `namespace` do wcześniej stworzonych klas np. `Pagination`, `Database` i zaprezentuj ich działanie w pliku `index.php`.
 
 &nbsp;
 > :no_entry: *Jeśli nie posiadasz materiałów do tego zadania tj. **Wideo**, znajdziesz je na stronie [laracasts.com](https://laracasts.com/referral/bogolubow)*

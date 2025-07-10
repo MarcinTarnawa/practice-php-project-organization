@@ -4,7 +4,7 @@
 
 # `#02` PHP: Project Organization
 
-Stwórz rozwiązanie, które pozwoli ładować klasy z konkretnego katalogu. Weź pod uwagę używanie `namespace`, gzie klasy o tym samym "namespace" są pobierane z katalogu o nazwie zgodnej z "namespace". 
+Stwórz rozwiązanie, które pozwoli ładować klasy z konkretnego katalogu. Weź pod uwagę używanie `namespace`, gdzie klasy o tym samym "namespace" są pobierane z katalogu o nazwie zgodnej z "namespace". 
 
 Zaprezentuj rozwiązania na konkretnym przykładzie.
 
