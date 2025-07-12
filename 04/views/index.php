@@ -21,6 +21,6 @@
 Choose url:
     <a href="/">Index</a>
     <a href="/create">Create</a>
-    <a href="/show">index Controller</a>
+    <a href="/show">show Controller</a>
 </body>
 </html>

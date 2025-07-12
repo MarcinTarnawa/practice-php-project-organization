@@ -1,6 +1,6 @@
 <?php
 
-function rout($fileName, $uri, $params = [])
+function route($fileName, $uri, $params = [])
 {
     if(! realpath("{$uri}/{$fileName}.view.php")) {
         return "Błędna scieżka";
@@ -19,4 +19,4 @@ $params = ['user' => 'Marcin',
         'id' => '1',
     'method' => 'GET' ];
 
-rout($reqFile, $directory, $params);
+route($reqFile, $directory, $params);

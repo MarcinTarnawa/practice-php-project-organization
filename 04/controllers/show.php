@@ -1,5 +1,5 @@
 <?php
 
-echo "index controller <br>";
+echo "show controller <br>";
 ?>
 <a href="/">Back</a>
